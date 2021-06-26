@@ -3,8 +3,6 @@ package com.competitive.programming.TheBibleOfCodingInterviews.MathematicalFunda
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
-
 class IsPrimeNumberTest {
     @Test
     void mainTest(){

@@ -1,13 +1,8 @@
-/*****************************************************************************************
- * File: 
- *
- * Copyright (c)  Omnitracs, LLC. All rights reserved.
- * Confidential and Proprietary – Omnitracs, Inc.
- * This software may be subject to U.S. and international export, re-export, or transfer
- * ("export") laws.
- * Diversion contrary to U.S. and international laws is strictly prohibited.
- ****************************************************************************************/
+
 package com.competitive.programming.TheBibleOfCodingInterviews.MathematicalFundamentals;
+
+//Program that return true if the number is prime
+//Complexity = O(sqrt(N))
 
 public class IsPrimeNumber {
     public boolean isPrimeNumber(int number){
@@ -17,5 +12,6 @@ public class IsPrimeNumber {
         }
         return true;
     }
+
 
 }
