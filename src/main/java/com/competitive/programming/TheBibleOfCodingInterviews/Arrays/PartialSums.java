@@ -1,6 +1,7 @@
 
 package com.competitive.programming.TheBibleOfCodingInterviews.Arrays;
 
+//Complexity = O(1)
 public class PartialSums {
 
     int[] partialSum(int[] array, int[] startIndexArray, int[] finishIndexArray){
